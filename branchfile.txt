@@ -1,0 +1,2 @@
+cat [[A[C[C[C[C[C > branchfile.txt
+  cat branchfile.txt
